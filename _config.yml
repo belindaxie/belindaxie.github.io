@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 title: Welcome to Belinda Xie's homepage.
 description: Take a look around to learn more about my work.
+markdown: kramdown
