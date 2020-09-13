@@ -10,7 +10,7 @@ The week before that, I participated in a brilliant online training to become a 
 
 So I'm finally activating the 'blog' section of this website. I don't expect many (any) people to read this, but if you are here - I hope there is some info here that will inspire you to use your voice, skills, and energy however you can. 
 
-![Uluru by Ondrej Machart](/_posts/ondrej-machart-uluru.jpg)
+![Uluru, Ondrej Machart](/_posts/ondrej-machart-uluru.jpg)
 
 <!-- <img src="ondrej-machart-uluru.jpg" alt="Uluru by Ondrej Machart"/> -->
 
