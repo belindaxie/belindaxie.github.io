@@ -12,6 +12,8 @@ So I'm finally activating the 'blog' section of this website. I don't expect man
 
 ![Uluru, Ondrej Machart](/_posts/ondrej-machart-uluru.jpg)
 
+![Uluru2, Ondrej Machart](/_posts/images/ondrej-machart-uluru_.5.png)
+
 
 <img src="/_posts/images/ondrej-machart-uluru_.5.png" alt="Uluru by Ondrej Machart"/>
 
