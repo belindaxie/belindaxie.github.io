@@ -12,6 +12,6 @@ So I'm finally activating the 'blog' section of this website. I don't expect man
 
 ![Uluru, Ondrej Machart](/_posts/ondrej-machart-uluru.jpg)
 
-<!-- <img src="ondrej-machart-uluru.jpg" alt="Uluru by Ondrej Machart"/> -->
+<img src="/ondrej-machart-uluru.jpg" alt="Uluru by Ondrej Machart"/>
 
 *Uluru is perhaps the most beautiful and humbling place I have been fortunate enough to visit. To me, Uluru represents the need to prioritise Indigenous voices, and also the beauty of what is at stake, in a warming world.*
