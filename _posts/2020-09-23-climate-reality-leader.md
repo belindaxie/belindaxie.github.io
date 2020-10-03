@@ -31,7 +31,7 @@ Here, I want to reflect on some of the most compelling facts we learned, share t
 * So far in 2020, Portugal has gone 59 days, and the UK 67 days with NO coal-fired electricity
 * The "Sun Cable" Project will supply 1/5th of Singapore's electricity needs from solar energy from Northern Australia
 * European cities will start banning internal combustion engines - including London, Paris, Rome, Madrid
-* In the US, the fastest-growing job through 2028 will be "solar installer", followed by "wind turbine servie technician"
+* In the US, the fastest-growing job through 2028 will be "solar installer", followed by "wind turbine service technician"
 
 ### Tips on climate communication
 
@@ -41,7 +41,7 @@ Here, I want to reflect on some of the most compelling facts we learned, share t
 
 ### My Acts of Leadership
 
-1. Presentation - I am currently collaborating with 4 other Climate Reality Leaders from UNSW to give a combine presentation to the broader UNSW community. I'm very excited about this! We are all from different parts of the university, but completely united in our desire to see local action.
+1. Presentation - I am currently collaborating with 4 other Climate Reality Leaders from UNSW to give a combined presentation to the broader UNSW community. I'm very excited about this! We are all from different parts of the university, but completely united in our desire to see local action.
 2. Letter to the Editor - I want to submit several Letters. Citizens' Climate Lobby has been an excellent resource for this, as there are some brilliant writers involved with CCL.
 3. This blog post - Reflecting on what I learnt and how I can apply it is a useful push to get on with it! 
 
