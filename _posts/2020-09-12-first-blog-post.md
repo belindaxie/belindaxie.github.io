@@ -12,4 +12,6 @@ So I'm finally activating the 'blog' section of this website. I don't expect man
 
 <img src="/_posts/images/ondrej-machart-uluru_.5.png" alt="Uluru by Ondrej Machart"/>
 
+<img src="https://github.com/belindaxie/belindaxie.github.io/blob/belindaxie-blog-in-progress-crl/_posts/ondrej-machart-uluru.jpg" alt="Uluru by Ondrej Machart"/>
+
 *Uluru is perhaps the most beautiful and humbling place I have been fortunate enough to visit. To me, Uluru represents the need to prioritise Indigenous voices, and also the beauty of what is at stake, in a warming world.*
