@@ -27,7 +27,7 @@ To answer these questions about online misinformation relating to climate change
 
 Misinformation is "...information that is false, inaccurate or misleading" (p. 3). This information doesn't have to be intentionally deceitful, but it can be (which would also make it 'disinformation'). 
 
-Earlier research into misinformation used terms like climate 'skepticism' (for the correct definition of scientific skepticism, see <a href="https://en.wikipedia.org/wiki/Skeptical_movement#Scientific_skepticism">here</a>, climate 'denialism', and climate 'contrarianism' - the common thread here is a skewed portrayal of information that misleads the listener or reader.
+Earlier research into misinformation used terms like climate 'skepticism' (for the correct definition of scientific skepticism, see <a href="https://en.wikipedia.org/wiki/Skeptical_movement#Scientific_skepticism">here</a>), climate 'denialism', and climate 'contrarianism' - the common thread here is a skewed portrayal of information that misleads the listener or reader.
 
 *Who is involved?*
 
@@ -35,7 +35,7 @@ The current authors cite Bjornberg et al., (2017) who found six categories of ac
 
 1. Scientists - e.g., several open letters disputing climate change and supposedly penned by scientists, are mostly signed by individuals with no climate science expertise (e.g., <a href="https://climatefeedback.org/evaluation/letter-signed-by-500-scientists-relies-on-inaccurate-claims-about-climate-science/">10/506 self-identified as climate scientists</a>) 
 2. Governments - <a href="https://www.theguardian.com/australia-news/2020/jan/16/there-is-no-link-the-climate-doubters-within-scott-morrisons-government">Australia</a> provides good (bad?) examples of this
-3. Political and religious organisations, including think tanks and foundations - e.g., the <a href="https://en.wikipedia.org/wiki/Heartland_Institute#:~:text=Since%20the%202000s%2C%20the%20Heartland,be%20damaging%20to%20the%20economy.>Heartland Institute</a>
+3. Political and religious organisations, including think tanks and foundations - e.g., the <a href="https://en.wikipedia.org/wiki/Heartland_Institute#:~:text=Since%20the%202000s%2C%20the%20Heartland,be%20damaging%20to%20the%20economy.">Heartland Institute</a>
 4. Industry, often oil/coal extraction - e.g., <a href="https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/">Exxon Mobil</a>
 5. Media, particularly those with right-wing affiliations - e.g., <a href="https://www.afr.com/companies/media-and-marketing/news-corp-employee-lashes-company-s-bushfire-coverage-20200110-p53qfh">The Australian</a>
 6. Members of the public, particularly conservative white males - you might be able to think of your own examples here...
