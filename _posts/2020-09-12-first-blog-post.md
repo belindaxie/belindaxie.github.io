@@ -12,3 +12,5 @@ So I'm finally activating the 'blog' section of this website. I don't expect man
 
 ![uluru](/_posts/images/ondrej-machart-uluru_.5.png)
 
+<img src="ondrej-machart-uluru.jpg" alt="uluru" style="width:192px">
+
